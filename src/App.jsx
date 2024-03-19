@@ -35,7 +35,7 @@ const removeValue =()=>{
 }
   return (
     <>
-      <h1>Chai or React</h1>
+      <h1>React Counter App</h1>
       <h2>Counter value: {counter}</h2>
 
       <button
